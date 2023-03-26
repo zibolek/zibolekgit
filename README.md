@@ -1,2 +1,2 @@
 # zibolekgit
-WSB Studia
+WSB Studia 2023
